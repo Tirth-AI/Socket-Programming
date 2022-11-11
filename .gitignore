@@ -1,0 +1,8 @@
+CPP/.vscode
+CPP/*/.vscode
+CPP/*/a.out
+CPP/*/Client.cpp
+CPP/*/Server.cpp
+CPP/*/tempCodeRunnerFile.cpp
+CPP/*/VigenereCipher.cpp
+
